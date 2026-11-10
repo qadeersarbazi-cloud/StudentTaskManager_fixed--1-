@@ -1,0 +1,15 @@
+# compiled output
+out/
+bin/
+*.class
+
+# your personal saved data
+assignments.txt
+assignments.txt.tmp
+
+# IDE files
+.vscode/
+.idea/
+.classpath
+.project
+.settings/
